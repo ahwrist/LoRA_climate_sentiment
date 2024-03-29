@@ -1,2 +1,2 @@
-# lightweight_fine_tuning
-This repository leverages Hugging Face's PEFT (Parameter Efficient Fine Tuning) using the LoRA configuration to fine tune a foundation model without needing substantial computational resources, resulting in a more efficient and sustainable fine-tuned model.
+# LoRA_climate_sentiment
+This repository leverages Hugging Face's PEFT (Parameter Efficient Fine Tuning) using the LoRA configuration to fine-tune a foundation model for analyzing climate sentiment of financial disclosures from firms. The ultimate goal is to accurately classify financial disclosures as "risk", "neutral", or "opportunity" with regards to the impact to climate change. Fine-tuning a pre-existing model with LoRA allows for a substantial reduction in necessary computational resources, resulting in a more efficient and sustainable fine-tuned model. 
