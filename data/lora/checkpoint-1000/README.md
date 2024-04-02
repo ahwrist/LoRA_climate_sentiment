@@ -1,6 +1,6 @@
 ---
 library_name: peft
-base_model: gpt2
+base_model: distilbert-base-uncased
 ---
 
 # Model Card for Model ID
