@@ -1,2 +1,4 @@
-data/sentiment_analysis/checkpoint-1000/model.safetensors
-lora_climate_sentiment_model.pt
+data/
+gpt_lora_sms_spam/
+gpt2_full_train_spam/
+gpt2_lora_email_spam/
